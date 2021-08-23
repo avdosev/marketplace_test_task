@@ -12,6 +12,9 @@ dependencies:
     sdk: flutter
   
   cupertino_icons: ^1.0.2
+  routemaster: ^0.9.5
+  provider: ^6.0.0
+  flutter_svg: ^0.22.0
 
 dev_dependencies:
   flutter_test:
@@ -22,8 +25,10 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/icons
-    - assets/images
-    - assets/market_data
+    - assets/images/divan.png
+    - assets/market_data/1111.png
+    - assets/market_data/1112.png
+    - assets/market_data/1113.png
+    - assets/market_data/1114.png
 
 
